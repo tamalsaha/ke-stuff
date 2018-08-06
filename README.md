@@ -8,3 +8,6 @@
 
 - Kubelet Server
   - https://kubernetes.io/docs/reference/command-line-tools-reference/kubelet-authentication-authorization/
+
+- Monitoring Stuff
+  - https://github.com/kubebits/kubernetes-reading-list/issues/1
