@@ -5,3 +5,6 @@
   - https://kubernetes.io/docs/tasks/tls/certificate-rotation/
   - https://medium.com/@toddrosner/kubernetes-tls-bootstrapping-cf203776abc7 (token csv)
   - [Kubelet Server TLS Certificate Rotation](https://github.com/kubernetes/features/issues/267)
+
+- Kubelet Server
+  - https://kubernetes.io/docs/reference/command-line-tools-reference/kubelet-authentication-authorization/
