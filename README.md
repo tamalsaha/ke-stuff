@@ -11,3 +11,6 @@
 
 - Monitoring Stuff
   - https://github.com/kubebits/kubernetes-reading-list/issues/1
+
+- Kubeadm
+  - https://www.youtube.com/watch?v=YCOWQIFVAbg
