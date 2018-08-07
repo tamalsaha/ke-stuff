@@ -14,3 +14,7 @@
 
 - Kubeadm
   - https://www.youtube.com/watch?v=YCOWQIFVAbg
+
+- Ipv6
+  - https://github.com/kubernetes/features/issues/508
+  - https://github.com/kubernetes/features/issues/508#issuecomment-382149768
